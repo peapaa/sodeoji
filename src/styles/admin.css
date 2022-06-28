@@ -1,0 +1,3 @@
+.disable--all--table, .disable--search--table, .disable--paging{
+    display: none;
+}
